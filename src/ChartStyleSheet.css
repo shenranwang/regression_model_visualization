@@ -1,0 +1,23 @@
+/* Blue semi-transparent 4-pointed star, using SVG path. */
+/* .default-color0.chart-symbol { */
+/*     -fx-background-color: blue; */
+/*     -fx-scale-shape: true; */
+/*     -fx-shape: "M 0.0 10.0 L 3.0 3.0 L 10.0 0.0 L 3.0 -3.0 L 0.0 -10.0 L -3.0 -3.0 L -10.0 0.0 L -3.0 3.0 Z "; */
+/*     -fx-opacity: 0.5; */
+/* } */
+
+.default-color0.chart-symbol {
+    -fx-background-color: blue;
+    -fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
+
+/* Default shape is a rectangle. Here, we round it to become a black circle with a white
+ * center. Change the radius to control the size.
+ */
+.default-color1.chart-symbol {
+    -fx-background-color: black, white;
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}

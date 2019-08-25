@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<DataInfo>
+   <Data>
+      <x>1</x>
+      <y>4,5</y>
+   </Data>
+   <Data>
+      <x>2</x>
+      <y>9,1</y>
+   </Data>
+   <Data>
+      <x>3</x>
+      <y>14</y>
+   </Data>
+   <Data>
+      <x>4</x>
+      <y>20,34</y>
+   </Data>
+   <Data>
+      <x>5</x>
+      <y>23,434</y>
+   </Data>
+   <Data>
+      <x>6</x>
+      <y>28,95</y>
+   </Data>
+</DataInfo>

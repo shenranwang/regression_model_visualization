@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/ejml-cdense-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-cdense-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-core-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-core-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-ddense-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-ddense-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-dsparse-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-dsparse-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-experimental-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-experimental-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-fdense-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-fdense-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-simple-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-simple-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-zdense-0.37.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-zdense-0.37.1.jar"/>
+	<classpathentry kind="lib" path="lib/scalafx_2.12-8.0.181-R13.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
